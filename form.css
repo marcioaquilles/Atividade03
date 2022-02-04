@@ -55,6 +55,11 @@
     user-select: none;
 }
 
+.terms p {
+    margin-left: 2px;
+    text-align: center;
+}
+
 /* Hide the browser's default checkbox */
 .terms input {
     position: absolute;
